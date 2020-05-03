@@ -4,3 +4,4 @@ Experimental directory for exploring reinforcement learning concepts through sim
 
 ## Contents
 * Rock-Paper-Scissors
+* Matching-Pennies
